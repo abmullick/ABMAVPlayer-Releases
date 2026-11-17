@@ -1,9 +1,9 @@
 # ABM AV Player — Official Releases
 
-This repository distributes official, compiled releases of ABM AV Player.
+This repository distributes official, compiled releases of ABM AV Player. Application source code and engineering documentation are maintained separately in [ABMAVPlayer](https://github.com/abmullick/ABMAVPlayer).
 
 - **Downloads:** [GitHub Releases](https://github.com/abmullick/ABMAVPlayer-Releases/releases)
-- **Current release:** [v1.0.8](https://github.com/abmullick/ABMAVPlayer-Releases/releases/tag/v1.0.8)
+- **Current release:** [v1.0.8](https://github.com/abmullick/ABMAVPlayer-Releases/releases/tag/v1.0.8) — latest published
 - **Product:** ABM AV Player for Windows x64
 - **Publisher:** Abhishek Basu Mullick
 
